@@ -8,17 +8,15 @@ ACLens is a PowerShell-based GUI tool that reads NTFS and SharePoint Online perm
 
 ---
 
-## Origin
+## Origin & Credits
 
-This tool was born from a real-world need. A big thank you to **Philipp Herrmann** — the idea for ACLens came from him. Without that spark, this tool wouldn't exist. 🙌
+The idea for ACLens came from **Philipp Herrmann** — born from a real-world need. Without that spark, this tool wouldn't exist. 🙌
 
----
+The idea was picked up and driven by **Jan Erik Mueller**, who defined the requirements, direction and scope of the project.
 
-## Built with AI
+The entire codebase — every line of PowerShell, the Windows Forms GUI, the scan engine, all dialogs and tools — was written by **[Claude](https://claude.ai)**, an AI assistant made by **[Anthropic](https://anthropic.com)**.
 
-The idea, requirements and direction for this project came from **Jan Erik Mueller**. The entire codebase — every line of PowerShell, the Windows Forms GUI, the scan engine, all dialogs and tools — was written by **[Claude](https://claude.ai)**, an AI assistant made by **[Anthropic](https://anthropic.com)**.
-
-This project is an example of human–AI collaboration: a person with a vision, and an AI that implements it.
+This project is an example of human–AI collaboration: people with a vision, and an AI that implements it.
 
 ---
 
