@@ -197,15 +197,13 @@ Click **Compare Scans** in the footer to open the comparison window.
 
 ## Roadmap
 
-- [ ] **v0.3.0** — Scheduled scans, CSV/Excel export, DPI-aware GUI
-- [ ] Side-by-side diff view in HTML
-- [ ] Multi-site SP scanning
+See the full [ROADMAP.md](ROADMAP.md) for all planned features and future direction.
 
 ---
 
 ## Documentation
 
-- [Manual SharePoint Setup](manual-sp-setup.md) — step-by-step Azure App Registration guide
+- [Manual SharePoint Setup](docs/manual-sp-setup.md) — step-by-step Azure App Registration guide
 
 ---
 
@@ -219,6 +217,12 @@ MIT — see [LICENSE](LICENSE) for details.
 
 Bug reports, feature requests and pull requests are welcome!
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
+
+---
+
+## Author
+
+**Jan Erik Mueller**
 
 ---
 
